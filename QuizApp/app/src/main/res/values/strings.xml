@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hololive Production Quiz App</string>
+    <string name="app_intro">Hololive Production, or \"Hololive\" for short, is a virtual YouTuber talent agency from Japan. There are currently 52 talents, known as \"Vtubers,\" who livestream a range of activities such as gaming, singing, chatting, drawing, and more. \n\nOf course, you wouldn\'t be taking this quiz if you didn\'t know all that! Let\'s test your Hololive knowledge with a few questions.</string>
+    <string name="q1">What is the name of Hololive\'s parent company?</string>
+    <string name="q1a1">Ichikara Inc.</string>
+    <string name="q1a2">VShojo</string>
+    <string name="q1a3">Cover Corp</string>
+    <string name="q1a4">Tesla</string>
+    <string name="q2">Which of the following VTubers are part of Hololive? (check all that apply)</string>
+    <string name="q2a1">Inugami Korone</string>
+    <string name="q2a2">Tsukino Mito</string>
+    <string name="q2a3">Hanabatake Chaika</string>
+    <string name="q2a4">Sakura Miko</string>
+    <string name="q2a5">Uruha Rushia</string>
+    <string name="q3">What term does Mori Calliope use to refer to her fans?</string>
+    <string name="q3a1">Deadbeats</string>
+    <string name="q3a2">Skeleton Crew</string>
+    <string name="q3a3">Ghoulfriends</string>
+    <string name="q3a4">Polterguests</string>
+    <string name="q4">Which Japanese word is used ironically to describe a VTuber who tries—and fails—to act “pure” and “wholesome?”</string>
+    <string name="q4a1">Sousou</string>
+    <string name="q4a2">Menso</string>
+    <string name="q4a3">Seiso</string>
+    <string name="q4a4">Uso</string>
+    <string name="q5">Which VTuber is this?</string>
+    <string name="q5a1">Amelia Watson</string>
+    <string name="q6">Which platforms do Hololive idols stream on? (check all that apply)</string>
+    <string name="q6a1">YouTube</string>
+    <string name="q6a2">Nico Nico Douga</string>
+    <string name="q6a3">Bilibili</string>
+    <string name="q6a4">Twitch</string>
+    <string name="q6a5">DLive</string>
+    <string name="results">Congratulations, you\'ve finished the quiz!</string>
+    <string name="results_button">Show me the results!</string>
+    <string name="copyright">All images are property of Cover Corp, sourced from https://en.hololive.tv/ </string>
+</resources>
